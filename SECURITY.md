@@ -5,3 +5,6 @@ Please do not open GitHub issues or pull requests - this makes the problem immed
 https://www.facebook.com/whitehat
 
 Meta's security team will triage your report and determine whether or not is it eligible for a bounty under our program.
+## sklearn deprecated
+
+you should update sklearn dependency of requirements.txt to scikit-learn
